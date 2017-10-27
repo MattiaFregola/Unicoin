@@ -33,15 +33,15 @@ Public and Private Universities, MOOC platforms, private colleges.
 
 > Alternatively (or simultaneously) the coins can be used to apply for specific job positions and would function as both (1) a proof of achievement (if a position requires UUC.75 and a student can only ever have a total UUC.100, it would mean that they have achieved a certain amount of study) and (2) as a proof of motivation (if a student can only ever have UUC.100 and spends UUC.75 for one application, that application will be his/her only application as such). 
 
-### Desired output for the Blackaton.
-At the end of the Blackaton the main output will consist of a platform through which Universities can easily create ERC20 smart-contracts to issue their own tokens to students.
+### Desired output for the Blockaton.
+At the end of the Blockaton the main output will consist of a platform through which Universities can easily create ERC20 smart-contracts to issue their own tokens to students.
 
 ### Ideal team.
 * Solidity developer
 * Web developer
 * UI/UX designer
 
-(at leaset one of them with a clue about security).
+(at least one of them with a clue about security).
 
 ## To discuss before the Blockathon.
 
