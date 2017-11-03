@@ -11,6 +11,8 @@ please read the whole document before to fork
 
 (c) Matness.me - The MIT Licence.
 
+Join the slack conversation here! https://goo.gl/18M8kS
+
 */
 
 
@@ -29,7 +31,7 @@ Public and Private Universities, MOOC platforms, private colleges.
 
 > Students receive an amount of coins proportional to their grades and achievement. 
 
-> Coins can then be spent for (1) a number of activities within the University or (2) to receive discounts at the local cafeteria, local drugstore – or most likely the local booze shop or weed guy.
+> Coins can then be spent for (1) a number of activities within the University - such as printing services - or (2) to receive discounts at the local cafeteria, local drugstore – or most likely the local booze shop or weed guy.
 
 > Alternatively (or simultaneously) the coins can be used to apply for specific job positions and would function as both (1) a proof of achievement (if a position requires UUC.75 and a student can only ever have a total UUC.100, it would mean that they have achieved a certain amount of study) and (2) as a proof of motivation (if a student can only ever have UUC.100 and spends UUC.75 for one application, that application will be his/her only application as such). 
 
